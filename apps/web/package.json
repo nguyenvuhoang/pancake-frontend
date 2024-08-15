@@ -43,7 +43,7 @@
     "@ethersproject/strings": "^5.0.0",
     "@ethersproject/units": "^5.0.0",
     "@gelatonetwork/limit-orders-lib": "^4.1.0",
-    "@gnosis.pm/safe-apps-wagmi": "^1.2.0",
+    "@gnosis.pm/safe-apps-wagmi": "^2.1.0",
     "@next/bundle-analyzer": "13.0.7",
     "@pancakeswap/farms": "*",
     "@pancakeswap/hooks": "*",
