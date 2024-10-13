@@ -43,7 +43,7 @@
     "@ethersproject/strings": "^5.0.0",
     "@ethersproject/units": "^5.0.0",
     "@gelatonetwork/limit-orders-lib": "^4.1.0",
-    "@gnosis.pm/safe-apps-wagmi": "^1.2.0",
+    "@gnosis.pm/safe-apps-wagmi": "^2.1.0",
     "@next/bundle-analyzer": "13.0.7",
     "@pancakeswap/farms": "*",
     "@pancakeswap/hooks": "*",
@@ -58,7 +58,7 @@
     "@pancakeswap/utils": "*",
     "@pancakeswap/wagmi": "*",
     "@reduxjs/toolkit": "^1.9.1",
-    "@sentry/nextjs": "^7.9.0",
+    "@sentry/nextjs": "^7.75.0",
     "@snapshot-labs/snapshot.js": "^0.4.40",
     "@vanilla-extract/next-plugin": "^2.1.1",
     "ajv": "^6.12.3",
@@ -98,7 +98,7 @@
     "swiper": "^8.4.2",
     "swr": "^2.0.1",
     "typescript": "^4.9.4",
-    "wagmi": "^0.10.10",
+    "wagmi": "^0.11.0",
     "zod": "^3.20.2"
   },
   "devDependencies": {
