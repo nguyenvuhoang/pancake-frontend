@@ -17,7 +17,7 @@
     "@pancakeswap/sdk": "^3.1.3"
   },
   "dependencies": {
-    "@ethersproject/providers": "^5.0.0",
+    "@ethersproject/providers": "^5.8.0",
     "@ethersproject/bignumber": "^5.0.0",
     "@pancakeswap/multicall": "^0.0.2",
     "lodash": "^4.17.21",
