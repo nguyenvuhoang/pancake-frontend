@@ -8,7 +8,7 @@
     "integration-test": "start-server-and-test 'yarn start' http://localhost:3000 'yarn cypress run'"
   },
   "dependencies": {
-    "@ethersproject/providers": "^5.0.0",
+    "@ethersproject/providers": "^5.8.0",
     "typescript": "^4.9.4"
   },
   "devDependencies": {
