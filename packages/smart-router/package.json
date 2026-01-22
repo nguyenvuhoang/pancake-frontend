@@ -20,7 +20,7 @@
     "@ethersproject/providers": "^5.0.0",
     "@ethersproject/bignumber": "^5.0.0",
     "@pancakeswap/multicall": "^0.0.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "tiny-invariant": "^1.1.0"
   },
   "devDependencies": {
