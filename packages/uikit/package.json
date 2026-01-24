@@ -71,7 +71,7 @@
     "@vanilla-extract/recipes": "^0.2.5",
     "date-fns": "^2.29.3",
     "framer-motion": "6.5.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "react-popper": "^2.2.5",
     "styled-system": "^5.1.5",
     "tslib": "^2.2.0"
