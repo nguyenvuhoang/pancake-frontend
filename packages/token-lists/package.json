@@ -11,7 +11,7 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "dependencies": {
-    "ajv": "^6.12.3",
+    "ajv": "^8.18.0",
     "@pancakeswap/swap-sdk-core": "*"
   },
   "peerDependencies": {
